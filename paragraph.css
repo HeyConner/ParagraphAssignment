@@ -1,10 +1,40 @@
 p.intro {
-  width: 50%;
+  width: 100;
   font-style: italic;
+  text-align: center;
 }
-h1 {
-  color: red;
+.flashy {
+  color: #cb7375;
+  font-style: italic;
 }
 p {
   width: ;
+}
+
+.best {
+  color:pink;
+  font-size: 50px;
+
+}
+h1 {
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+h4 {text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+a{text-align: center;
+}
+
+p {
+  text-align: center;
+}
+body {
+  background-color: #50527a
 }
